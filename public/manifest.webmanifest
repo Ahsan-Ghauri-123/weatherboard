@@ -1,0 +1,24 @@
+{
+  "name": "WeatherBoard",
+  "short_name": "WeatherBoard",
+  "description": "Search cities, view current conditions and a 5-day forecast, and save favourite places.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#e4eef4",
+  "theme_color": "#0f6a72",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
